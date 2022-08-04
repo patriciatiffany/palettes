@@ -27,11 +27,11 @@
         "prettier": "^1.18.2",
         "rollup": "^1.10.1",
         "rollup-plugin-commonjs": "^9.3.4",
-        "rollup-plugin-livereload": "^1.0.0",
+        "rollup-plugin-livereload": "^2.0.5",
         "rollup-plugin-node-resolve": "^4.2.3",
         "rollup-plugin-svelte": "^5.0.3",
         "rollup-plugin-terser": "^4.0.4",
-        "svelte": "^3.49.0"
+        "svelte": "^3.29.4"
     },
     "prettier": {
         "tabWidth": 4,
